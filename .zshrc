@@ -23,6 +23,7 @@ PS1='[\u@\h \W]\$ '
 
 # alias
 alias ls='eza'
+alias rm='rm -I'
 alias grep='rg --color=auto'
 alias pacman='sudo pacman'
 # alias end

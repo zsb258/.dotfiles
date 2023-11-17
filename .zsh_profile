@@ -1,6 +1,0 @@
-#
-# ~/.zsh_profile
-#
-
-[[ -f ~/.zshrc ]] && . ~/.zshrc
-. "$HOME/.cargo/env"
