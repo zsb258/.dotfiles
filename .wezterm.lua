@@ -16,7 +16,7 @@ end
 -- For example, changing the color scheme:
 config.color_scheme = "OneHalfDark"
 
-config.font = wezterm.font("FiraCode Nerd Font Mono")
+config.font = wezterm.font("FiraCodeNerdFontMono")
 
 config.keys = {}
 for i = 1, 8 do
